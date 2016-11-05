@@ -19,3 +19,5 @@
 `[find](/../../find/test)` - find file
 
 <a href="example.com" target="_blank">New Tab</a>
+
+[link name](example.com){:target="_blank"}
