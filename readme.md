@@ -57,7 +57,7 @@ it's **RELATIVE** links so it'll be valid in all forks of your project
 
 `[find](/../../find/test)`
 
->instead of master you can specify another branch name `/../../upload/new_brunch/doc/`, but be carefull - it's not relative!
+>instead of `master` you can specify another branch name `/../../upload/new_brunch/doc/`, but be carefull - it's not relative!
 
 
 
