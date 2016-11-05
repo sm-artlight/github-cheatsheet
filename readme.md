@@ -59,5 +59,7 @@ it's **RELATIVE** links so it'll be valid in all forks of your project
 
 >instead of `master` you can specify another branch name `/../../upload/new_brunch/doc/`, but be carefull - it's not relative!
 
+
+
 >in issues you may use this links such way: `(../upload/master/doc/)`
 
