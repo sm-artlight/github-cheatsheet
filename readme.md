@@ -17,6 +17,10 @@ it's **RELATIVE** links so it'll be valid in all forks of your project
 
 `[current/readme.md](./readme.md)`
 
+#### full path [from root](/doc/readme.md)
+
+`[from root](/doc/readme.md)`
+
 #### another brunch [test](/../../tree/test)
 
 `[test](/../../tree/test)`
