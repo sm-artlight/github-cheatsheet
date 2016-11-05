@@ -3,14 +3,19 @@ you can use it in any *.md file within Github
 
 it's **RELATIVE** links so it'll be valid in all forks of your project
 
-- the project's [root](/../../)
 
-`the project's [root](/../../)`
- *points to the default brunch root*
 
-the [doc](./)
+#### the project's [root](/../../)
 
-the [doc/readme.md](./readme.md)
+`[root](/../../)` *default branch*
+ 
+#### the [current](./) folder
+
+`[current](./)` *exept root folder*
+
+#### a file in the current folder [current/readme.md](./readme.md)
+
+`[current/readme.md](./readme.md)`
 
 another brunch [test_brunch](/../../tree/test)
 
