@@ -17,3 +17,5 @@
 `[upload](/../../upload/master/doc/)` - ask to upload file
 
 `[find](/../../find/test)` - find file
+
+<a href="example.com" target="_blank">New Tab</a>
