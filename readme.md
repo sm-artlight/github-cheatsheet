@@ -3,8 +3,10 @@ you can use it in any *.md file within Github
 
 it's **RELATIVE** links so it'll be valid in all forks of your project
 
-the project's [root](/../../)
+- the project's [root](/../../)
+
 `the project's [root](/../../)`
+ *points to the default brunch root*
 
 the [doc](./)
 
