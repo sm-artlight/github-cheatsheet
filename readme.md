@@ -68,4 +68,4 @@ instead of `master` you can specify another branch name `/../../upload/new_brunc
 
 in issues you may use this links such way: `(../upload/master/doc/)`
 
-open in new <a href="/../../edit/master/doc/readme.md" target="_blank">tab</a>
+to open in new <a href="/../../edit/master/doc/readme.md" target="_blank">tab</a> `<a href="/../../edit/master/doc/readme.md" target="_blank">tab</a>`
